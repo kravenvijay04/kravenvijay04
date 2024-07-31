@@ -2,8 +2,8 @@
 
 Electronics and Communication Engineer @ EEC
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 I’m currently working on project **Delish Waffles**                                                 
-- 🌱 I’m currently learning C, Javascript
+- 🔭 I’m currently working on project **DoDAY**                                                 
+- 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on ML/AI
 - 💬 Ask me about Tech queries
 - 📫 How to reach me :
