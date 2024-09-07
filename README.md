@@ -7,7 +7,7 @@ Electronics and Communication Engineer @ EEC
 - 👯 I’m looking to collaborate on ML/AI
 - 💬 Ask me about Tech queries
 - 📫 How to reach me :
-<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vijayakumar-nk-885172257/)[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/8196vijay/)
+<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vijayakumar-nk-885172257/)<br/>[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/8196vijay/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I love to create and play games
 
