@@ -4,7 +4,7 @@ Electronics and Communication Engineer @ Easwari Engineering College
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 I’m currently working on project **Notify**                                                 
 - 🌱 I’m currently learning DSA in C++
-- 👯 I’m looking to collaborate on Machine learning
+- 👯 I’m looking to collaborate on Machine learning/Deep learning
 - 💬 Ask me about Tech queries  
 - 📫 How to reach me : 
 <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vijayakumar-nk-885172257/)                  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/8196vijay/)
