@@ -2,7 +2,7 @@
 
 Electronics and Communication Engineer @ Easwari Engineering College  
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 I’m currently working on project **Notify**                                                 
+- 🔭 I’m currently working on project **Blufy**                                                 
 - 🌱 I’m currently learning DSA in Java
 - 👯 I’m looking to collaborate on Machine learning
 - 📫 How to reach me : 
